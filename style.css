@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+}
+img{
+    max-width: 200px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   background-color: #1f2937;
+   
+}
+.header-links{
+    margin-right: 30px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+
+a{
+    text-decoration: none; /* This is how you get rid of underline links and such*/
+    color:gray
+
+}
+.box1{
+    background-color: #1f2937;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+.box2title{
+    display: flex;
+    gap: 50px;
+ justify-content: center;
+}
+

@@ -1,2 +1,2 @@
 # Landing-Page
-My first larger project. Creating a static landing page.
+My first true project. Creating a static landing page.
