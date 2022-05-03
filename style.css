@@ -111,3 +111,63 @@ button{
  justify-content: center;
 }
 
+.quotebox{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    justify-content: center;
+    padding: 70px;
+    color:#1f2937
+}
+
+.qauthor{
+    padding-left: 900px;
+    padding-top: 50px;
+
+}
+
+.actionbox{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: #3882f6;
+    border-radius: 10px;
+    margin: 100px 450px;
+    padding: 50px;
+    align-items: flex-start; 
+    color: #F9FAF8;
+    font-weight: 500px;
+    font-size: 30px;
+    flex-wrap: wrap;
+    max-height: 100px;
+}
+
+.signup{
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.actionbox button{
+    border-color: white;
+    background-color:#3882f6;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+
+.footer{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+}
+
+
