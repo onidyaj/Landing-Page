@@ -120,6 +120,7 @@ button {
   justify-content: center;
   padding: 70px;
   color: #1f2937;
+  margin-right: none;
 }
 
 .qauthor {
@@ -141,6 +142,7 @@ button {
   font-size: 30px;
   flex-wrap: wrap;
   max-height: 100px;
+  min-width: 600px;
 }
 
 .signup {
